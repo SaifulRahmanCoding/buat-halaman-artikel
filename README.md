@@ -1,2 +1,2 @@
 # buat-halaman-artikel
-tugas buat halaman artikel jong coding
+tugas buat halaman artikel pada module jong koding
