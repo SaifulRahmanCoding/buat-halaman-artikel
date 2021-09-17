@@ -1,2 +1,2 @@
 # buat-halaman-artikel
-tugas buat halaman artikel single content
+tugas buat halaman artikel jong coding
